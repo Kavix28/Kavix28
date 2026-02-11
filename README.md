@@ -1,114 +1,100 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kavyansh+Kapoor;AI+Engineer+%7C+LLM+Builder;Machine+Learning+Architect;Building+Intelligent+Systems+🚀;Engineering+the+Future+with+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Kavyansh+Kapoor;AI+Engineer;LLM+Systems+Architect;Machine+Learning+Research+%26+Applied+Intelligence" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavix28&label=Profile%20Views&color=00f7ff&style=flat" />
+  <em>Designing scalable intelligence. Engineering production-grade AI systems.</em>
 </p>
 
 ---
 
-# 🧠 About Me
+## Research Focus
+
+- Large Language Model Systems & Tool Augmentation  
+- Applied Machine Learning for real-world deployment  
+- Computer Vision & OCR pipelines  
+- AI + Backend Systems Integration  
+- Intelligent Automation Architectures  
+
+---
+
+## Technical Philosophy
 
 ```python
-class KavyanshKapoor:
-
+class Intelligence:
     def __init__(self):
-        self.role = "AI Engineer"
-        self.focus = [
-            "Machine Learning",
-            "Large Language Models",
-            "AI Automation",
-            "Computer Vision"
+        self.approach = [
+            "Mathematical clarity",
+            "Systems thinking",
+            "Production-first engineering",
+            "Scalable architecture design"
         ]
-        self.current_mission = "Building Scalable AI Systems"
-        self.mindset = "Think Deep. Build Smart. Scale Fast."
 
-    def vision(self):
-        return "Transforming real-world problems into intelligent AI solutions 🚀"
+    def objective(self):
+        return "Move from models → to systems → to impact."
 ```
 
 ---
 
-# 🚀 What I Build
+## Core Stack
 
-- 🤖 LLM-powered AI Applications  
-- 🧠 Machine Learning Models for real-world use  
-- 🔍 Computer Vision & OCR Systems  
-- ⚡ AI-integrated Full Stack Platforms  
-- ☁️ Scalable & Production-Ready AI Architectures  
-- 🏆 Hackathon-level Intelligent Solutions  
+**Languages**
+`Python` · `Java` · `TypeScript`
 
----
+**AI / ML**
+`PyTorch` · `TensorFlow` · `OpenCV` · `LLM Integration` · `Vector Databases`
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-
-### 🌐 Backend & Systems
-![Spring Boot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot)
-![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+**Systems & Backend**
+`Spring Boot` · `Node.js` · `Docker` · `REST Architectures`
 
 ---
 
-# 📊 GitHub Analytics
+## Selected Work
+
+**NEXUS**  
+AI-powered modular intelligence platform integrating LLM reasoning with backend automation.
+
+**License Plate Recognition System**  
+Production-style Computer Vision pipeline using OpenCV + OCR with structured extraction.
+
+**LLM-Augmented Automation Systems**  
+End-to-end AI pipelines combining model inference with backend execution layers.
+
+---
+
+## GitHub Intelligence Metrics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kavix28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavix28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kavix28&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavix28&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## Research Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavix28&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavix28&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## Current Direction
+
+- Architecting scalable AI infrastructure  
+- Optimizing LLM pipelines for real-world use  
+- Exploring multi-agent reasoning systems  
+- Building AI-native full stack platforms  
+
+---
+
+## Guiding Principle
+
+> "Intelligence is not the model.  
+> Intelligence is the system that uses the model."
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kavix28/Kavix28/output/github-contribution-grid-snake.svg" />
+  <sub>Kavyansh Kapoor · AI Engineer · Applied Intelligence Systems</sub>
 </p>
-
----
-
-# 🧠 Featured AI Projects
-
-- 🚀 AI-powered LLM Systems  
-- 🔍 Computer Vision + OCR Solutions  
-- 📊 Machine Learning Predictive Models  
-- ⚡ Intelligent Automation Tools  
-- 🧩 AI Integrated Full Stack Applications  
-
----
-
-# 🧭 Engineering Philosophy
-
-> “Artificial Intelligence is not just about models — it's about impact.”
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn  
-- 🌍 Portfolio  
-- 📧 Email  
-
----
-
-<h3 align="center">⚡ Kavyansh Kapoor | AI Engineer | Building Intelligence at Scale ⚡</h3>
