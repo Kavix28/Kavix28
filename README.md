@@ -1,100 +1,94 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Kavyansh+Kapoor;AI+Engineer;LLM+Systems+Architect;Machine+Learning+Research+%26+Applied+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Kavyansh+Kapoor;Applied+AI+Engineer;LLM+Systems+Architect;Machine+Learning+%7C+Intelligent+Infrastructure" />
 </h1>
 
 <p align="center">
-  <em>Designing scalable intelligence. Engineering production-grade AI systems.</em>
+  <em>Building production-grade AI systems that move beyond models and into scalable intelligence.</em>
 </p>
 
 ---
 
-## Research Focus
+## Applied Research Focus
 
-- Large Language Model Systems & Tool Augmentation  
-- Applied Machine Learning for real-world deployment  
-- Computer Vision & OCR pipelines  
-- AI + Backend Systems Integration  
-- Intelligent Automation Architectures  
+- Architecting LLM-driven systems with tool augmentation  
+- Designing end-to-end ML pipelines for real-world deployment  
+- Computer Vision & structured information extraction  
+- AI-native backend systems  
+- Automation architectures powered by reasoning models  
 
 ---
 
-## Technical Philosophy
+## Engineering Thesis
 
 ```python
-class Intelligence:
+class AppliedIntelligence:
+
     def __init__(self):
-        self.approach = [
-            "Mathematical clarity",
-            "Systems thinking",
-            "Production-first engineering",
-            "Scalable architecture design"
+        self.principles = [
+            "Mathematical grounding",
+            "Systems-first thinking",
+            "Scalability by design",
+            "Model + Infrastructure alignment"
         ]
 
-    def objective(self):
-        return "Move from models → to systems → to impact."
+    def belief(self):
+        return "Models are components. Systems create impact."
 ```
 
 ---
 
-## Core Stack
+## Core Technologies
 
-**Languages**
+**Languages**  
 `Python` · `Java` · `TypeScript`
 
-**AI / ML**
-`PyTorch` · `TensorFlow` · `OpenCV` · `LLM Integration` · `Vector Databases`
+**Machine Learning & AI**  
+`PyTorch` · `TensorFlow` · `OpenCV` · `LLM Orchestration` · `Vector Databases` · `Embedding Systems`
 
-**Systems & Backend**
-`Spring Boot` · `Node.js` · `Docker` · `REST Architectures`
-
----
-
-## Selected Work
-
-**NEXUS**  
-AI-powered modular intelligence platform integrating LLM reasoning with backend automation.
-
-**License Plate Recognition System**  
-Production-style Computer Vision pipeline using OpenCV + OCR with structured extraction.
-
-**LLM-Augmented Automation Systems**  
-End-to-end AI pipelines combining model inference with backend execution layers.
+**Systems Engineering**  
+`Spring Boot` · `Node.js` · `Docker` · `REST Architectures` · `Microservices`
 
 ---
 
-## GitHub Intelligence Metrics
+## System-Level Projects
+
+### NEXUS  
+Modular AI intelligence platform integrating LLM reasoning with backend execution layers and automation pipelines.
+
+### License Plate Recognition Engine  
+Computer Vision + OCR pipeline for structured extraction and validation, optimized for production-style workflows.
+
+### LLM-Augmented Automation Systems  
+Integrated AI reasoning models with backend services to enable dynamic task orchestration and execution.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kavix28&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavix28&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kavix28&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavix28&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## Research Activity
+## Engineering Direction
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavix28&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## Current Direction
-
-- Architecting scalable AI infrastructure  
-- Optimizing LLM pipelines for real-world use  
-- Exploring multi-agent reasoning systems  
-- Building AI-native full stack platforms  
+- Scaling LLM systems for production environments  
+- Optimizing inference pipelines and orchestration  
+- Multi-agent reasoning frameworks  
+- AI-integrated backend architectures  
+- Infrastructure-aware ML deployments  
 
 ---
 
-## Guiding Principle
+## Research Philosophy
 
-> "Intelligence is not the model.  
-> Intelligence is the system that uses the model."
+> Intelligence is not the output of a model.  
+> Intelligence is the coordination of models, infrastructure, and systems.
 
 ---
 
 <p align="center">
-  <sub>Kavyansh Kapoor · AI Engineer · Applied Intelligence Systems</sub>
+  <sub>Kavyansh Kapoor · Applied AI Engineer · Systems-Focused Intelligence</sub>
 </p>
