@@ -1,94 +1,102 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Kavyansh+Kapoor;Applied+AI+Engineer;LLM+Systems+Architect;Machine+Learning+%7C+Intelligent+Infrastructure" />
-</h1>
+﻿<div align="center">
 
-<p align="center">
-  <em>Building production-grade AI systems that move beyond models and into scalable intelligence.</em>
+# KAVYANSH KAPOOR
+
+### Applied AI · Machine Learning · Data Analytics · Software Engineering
+
+Building practical AI systems — from data pipelines and model evaluation to APIs, deployment, and user-facing products.
+
+<p>
+  <a href="https://github.com/Kavix28"><img src="https://img.shields.io/badge/GitHub-Kavix28-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/Kavix28?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-5B6CFF?style=for-the-badge&logo=github" alt="Projects"></a>
+  <a href="https://bodhganga.in"><img src="https://img.shields.io/badge/Building-BodhGanga-0E8A70?style=for-the-badge" alt="BodhGanga"></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:5B6CFF,50:8B5CF6,100:22D3EE" width="100%" alt="Gradient divider">
 
-## Applied Research Focus
+</div>
 
-- Architecting LLM-driven systems with tool augmentation  
-- Designing end-to-end ML pipelines for real-world deployment  
-- Computer Vision & structured information extraction  
-- AI-native backend systems  
-- Automation architectures powered by reasoning models  
+## About Me
 
----
+I'm a Computer Science and Engineering student interested in building useful software at the intersection of **AI/ML, data analytics, and backend engineering**.
 
-## Engineering Thesis
+I enjoy taking projects beyond experimentation: structuring code, developing APIs, integrating databases, containerizing applications, and thinking about deployment, security, and reliability.
 
-```python
-class AppliedIntelligence:
+- **AI/ML:** Computer vision, NLP, retrieval-based systems, model training and evaluation.
+- **Data:** Data preparation, exploratory analysis, feature engineering, and experimentation.
+- **Software engineering:** REST APIs, databases, authentication, testing, and deployment.
+- **Infrastructure:** Docker, Git, CI/CD, and cloud-hosted applications.
 
-    def __init__(self):
-        self.principles = [
-            "Mathematical grounding",
-            "Systems-first thinking",
-            "Scalability by design",
-            "Model + Infrastructure alignment"
-        ]
+## Featured Projects
 
-    def belief(self):
-        return "Models are components. Systems create impact."
-```
+### 01. BodhGanga — Educational Platform
 
----
+An educational platform focused on learning resources and state-wise testing.
 
-## Core Technologies
+- Worked across frontend development, backend integration, content delivery, and testing workflows.
+- Engineering interests include secure access control, reliable APIs, and deployment automation.
+- **Website:** [bodhganga.in](https://bodhganga.in)
+- **Repositories:** [Explore my GitHub projects](https://github.com/Kavix28?tab=repositories)
 
-**Languages**  
-`Python` · `Java` · `TypeScript`
+### 02. Multimodal Stock AI
 
-**Machine Learning & AI**  
-`PyTorch` · `TensorFlow` · `OpenCV` · `LLM Orchestration` · `Vector Databases` · `Embedding Systems`
+An AI/ML project exploring stock-market analysis across multiple tickers.
 
-**Systems Engineering**  
-`Spring Boot` · `Node.js` · `Docker` · `REST Architectures` · `Microservices`
+- Focus areas include market-data ingestion, dataset freshness, feature engineering, and model training.
+- Emphasis on reproducible experiments, meaningful baselines, and evaluation on appropriate time periods.
+- **Code:** [Browse repositories](https://github.com/Kavix28?tab=repositories)
 
----
+### 03. NEXUS — Collaborative AI-Powered IDE
 
-## System-Level Projects
+A developer-tool project exploring an AI-assisted coding workspace.
 
-### NEXUS  
-Modular AI intelligence platform integrating LLM reasoning with backend execution layers and automation pipelines.
+- Focus areas include editor integration, collaboration, local language models, and code execution architecture.
+- **Code:** [Browse repositories](https://github.com/Kavix28?tab=repositories)
 
-### License Plate Recognition Engine  
-Computer Vision + OCR pipeline for structured extraction and validation, optimized for production-style workflows.
+### 04. Oudience — Conversational AI
 
-### LLM-Augmented Automation Systems  
-Integrated AI reasoning models with backend services to enable dynamic task orchestration and execution.
+A support-assistant project exploring retrieval-based responses and natural-language interactions.
 
----
+- Focus areas include Python, semantic embeddings, document processing, intent routing, and local model integration.
+- **Code:** [Browse repositories](https://github.com/Kavix28?tab=repositories)
 
-## GitHub Activity
+## Technology Stack
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kavix28&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavix28&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+| Category | Technologies |
+|---|---|
+| Languages | Python, Java, C++, C, SQL, MATLAB |
+| AI / ML / Data | scikit-learn, pandas, NumPy, OpenCV, NLP, sentence-transformers |
+| Backend | Spring Boot, FastAPI, Flask, REST APIs |
+| Frontend | React, Vite, Tailwind CSS |
+| Databases | PostgreSQL, MongoDB |
+| Infrastructure | Docker, Docker Compose, AWS, Vercel, Git, GitHub Actions |
 
----
+## GitHub Statistics
 
-## Engineering Direction
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kavix28&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavix28&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
+</div>
 
-- Scaling LLM systems for production environments  
-- Optimizing inference pipelines and orchestration  
-- Multi-agent reasoning frameworks  
-- AI-integrated backend architectures  
-- Infrastructure-aware ML deployments  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kavix28&theme=tokyonight&hide_border=true" alt="Contribution streak">
+</div>
 
----
+## Engineering Principles
 
-## Research Philosophy
+- **Reproducibility:** Document setup, dependencies, datasets, and experiments.
+- **Evaluation:** Use appropriate baselines, tests, and clearly stated limitations.
+- **Security:** Keep secrets out of source control and apply least-privilege access.
+- **Practical delivery:** Connect models to APIs, interfaces, and deployment workflows.
 
-> Intelligence is not the output of a model.  
-> Intelligence is the coordination of models, infrastructure, and systems.
+## Let's Connect
 
----
+Interested in opportunities and collaborations across **AI/ML engineering, data analytics, and software development**.
 
-<p align="center">
-  <sub>Kavyansh Kapoor · Applied AI Engineer · Systems-Focused Intelligence</sub>
-</p>
+- GitHub: [@Kavix28](https://github.com/Kavix28)
+- Projects: [Browse repositories](https://github.com/Kavix28?tab=repositories)
+- BodhGanga: [bodhganga.in](https://bodhganga.in)
+
+<div align="center">
+  <sub>Building, experimenting, evaluating, and shipping useful software.</sub>
+</div>
